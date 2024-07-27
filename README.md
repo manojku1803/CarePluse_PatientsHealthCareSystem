@@ -88,7 +88,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 ## Demo
-![CarePluse](https://github.com/user-attachments/assets/0c4843d1-cc5a-4530-b4de-4f14d174f665)
+![CarePluse (1)](https://github.com/user-attachments/assets/b1e09c58-bf8a-4796-9407-52b04df97f57)
 
 
 
